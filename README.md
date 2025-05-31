@@ -23,9 +23,9 @@ Python 3
 Pygame
 
 # Requirements
-'''
+```
 pip install pygame
-'''
+```
 ## Assets
 Make sure the following files are in your project folder:
 
