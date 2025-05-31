@@ -48,8 +48,11 @@ python mariofemale.py
 
 ## Controls
 Key	Action
+
 ←/A	Move Left
+
 →/D	Move Right
+
 ↑/W/Space	Jump / Double Jump
 
 
