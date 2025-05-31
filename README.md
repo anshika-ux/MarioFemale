@@ -1,34 +1,30 @@
-#🎮 MarioFemale(Pygame Arcade Platformer)
+#MarioFemale(Pygame Arcade Platformer)🎮
 MarioFemale is a vibrant, retro-style 2D arcade platformer built with Pygame. Inspired by classic platformers but with a modern twist, this project features smooth camera tracking, neon-lit visuals, immersive audio, and responsive double-jump mechanics—all starring a female protagonist.
-#🚀 Features
+##Features🚀 
 🧍‍♀️ Female Character: Play as a stylized female protagonist with smooth animations and movement.
 
-#🕹️ Player Mechanics:
+##Player Mechanics🕹️:
 Left/right movement with direction tracking
 Jump and double-jump capabilities
 Speed and jump power-ups
 Health system and invulnerability frames
 
-#🎨 Arcade Aesthetics:
+## Arcade Aesthetics 🎨 :
 Neon and pastel colors
 Pixel-style glow and gradients
 
-#📷 Camera System:
+##Camera System 📷:
 Smooth follow with deadzone
 Subtle shake effects for action moments
 
-#🛠️ Built With
+##Built With
 Python 3
 Pygame
 
-#📦 Requirements
-Install Pygame using pip:
-
-bash
-Copy
-Edit
+# Requirements
+'''
 pip install pygame
-
+'''
 📁 Assets
 Make sure the following files are in your project folder:
 
@@ -47,9 +43,7 @@ Run the game with:
 python mariofemale.py
 Replace mariofemale.py with the actual filename if it's different.
 
-
-
-🎮 Controls
+##Controls
 Key	Action
 ←/A	Move Left
 →/D	Move Right
