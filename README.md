@@ -41,8 +41,10 @@ retro-song.mp3 – Background looping music
 
 ## How to Run🔧
 Run the game with:
+```
 python mariofemale.py
-Replace mariofemale.py with the actual filename if it's different.
+```
+**Replace mariofemale.py with the actual filename if it's different.**
 
 ## Controls
 Key	Action
