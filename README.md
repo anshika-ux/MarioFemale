@@ -1,4 +1,4 @@
-#🎮 MarioFemale (Pygame Arcade Platformer)
+#🎮 MarioFemale(Pygame Arcade Platformer)
 MarioFemale is a vibrant, retro-style 2D arcade platformer built with Pygame. Inspired by classic platformers but with a modern twist, this project features smooth camera tracking, neon-lit visuals, immersive audio, and responsive double-jump mechanics—all starring a female protagonist.
 #🚀 Features
 🧍‍♀️ Female Character: Play as a stylized female protagonist with smooth animations and movement.
