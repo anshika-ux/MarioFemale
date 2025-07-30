@@ -247,7 +247,7 @@ class Player:
                         'color': (255, 255, 255)
                     }
                     if 'particles' in globals():
-                        particles.append(particle)
+                        particle.append(particle)
         
         # Apply gravity
         if not self.on_ground:
