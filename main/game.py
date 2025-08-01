@@ -268,6 +268,14 @@ class Player:
             self.on_ground = True
         else:
             self.on_ground = False
+        # Gate collision check (add this after platform/ground collision logic)
+        player_rect = pygame.Rect(self.x, self.y, self.width, self.height)
+        gate = self.current_map.gate
+        gate_rect = pygame.Rect(gate['x'], gate['y'], gate['width'], gate['height'])
+
+        if player_rect.colliderect(gate_rect):
+        self.x = gate['x'] - self.width  # Prevent player from moving through
+        self.next_level()                # Or trigger level transition
         
         # Check platform collisions
         player_rect = self.get_rect()
